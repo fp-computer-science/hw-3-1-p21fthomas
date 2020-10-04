@@ -1,0 +1,1 @@
+You should have coded these equations in Python, not simply input the answers and printed them.
